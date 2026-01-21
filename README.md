@@ -24,6 +24,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 [Video Walkthrough](walkthrough.mov)
+https://github.com/CHold15/web102_prework/blob/main/walkthrough.mov
+
 
 
 GIF created with **LiceCap**
